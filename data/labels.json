@@ -1,0 +1,242 @@
+[
+  {
+    "id": "jobicy-152133",
+    "title": "Affiliate BD - Greater China",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "languages_required": ["Mandarin"],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-143124",
+    "title": "Enterprise Solutions Architect - Americas",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-152142",
+    "title": "Partner Solutions Engineer, Southern Europe",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "languages_required": ["French"],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-149988",
+    "title": "Software Engineer - Data Infrastructure - Kafka",
+    "seniority": "unclear",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-154206",
+    "title": "Director, Engineering - Commerce",
+    "seniority": "lead/manager",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-154213",
+    "title": "FDE Data Engineer- Space (FedD141/FedD147)",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-152407",
+    "title": "Senior QA Automation Engineer (Platform)",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-154387",
+    "title": "Senior Software Engineer - Go",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": false
+  },
+  {
+    "id": "jobicy-154336",
+    "title": "Strategic Account Executive - Brazil",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-152189",
+    "title": "Growth Marketing Manager, Foundry",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": false
+  },
+  {
+    "id": "jobicy-152181",
+    "title": "Staff Software Engineer, AI",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-154184",
+    "title": "Head of Product Marketing",
+    "seniority": "lead/manager",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-154482",
+    "title": "Analytics Lead, Deposit Fraud Risk",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-152487",
+    "title": "Head of AEO & SEO",
+    "seniority": "lead/manager",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": false
+  },
+  {
+    "id": "jobicy-142139",
+    "title": "Solidity Compiler Frontend Engineer",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-154155",
+    "title": "Staff AI Engineer",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-151924",
+    "title": "Principal Engineer (Payments)",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-154300",
+    "title": "Regional Sales Director - Southern Europe",
+    "seniority": "lead/manager",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-154210",
+    "title": "Sr. Software Engineer (Backend)",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-152428",
+    "title": "Account Executive - Central",
+    "seniority": "unclear",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-151932",
+    "title": "Sales Engineer | EMEIA",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "languages_required": ["German"],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-149971",
+    "title": "Software Engineer - Data Infrastructure",
+    "seniority": "unclear",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-149976",
+    "title": "Engineering Manager - Web",
+    "seniority": "lead/manager",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-154291",
+    "title": "Chief Technology Officer",
+    "seniority": "lead/manager",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": false
+  },
+  {
+    "id": "jobicy-152330",
+    "title": "Quality Engineer",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-152174",
+    "title": "Lead Supplier Quality Engineer",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": false
+  },
+  {
+    "id": "jobicy-152380",
+    "title": "Payments Solutions Architect (US or EMEA)",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-143584",
+    "title": "Power BI Architect",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": false
+  },
+  {
+    "id": "jobicy-154219",
+    "title": "Analytics Engineer",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  },
+  {
+    "id": "jobicy-152067",
+    "title": "Commercial Account Executive",
+    "seniority": "unclear",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true
+  }
+]

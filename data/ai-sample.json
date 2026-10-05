@@ -1,0 +1,607 @@
+[
+  {
+    "id": "jobicy-152133",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "languages_required": [
+      "Mandarin"
+    ],
+    "location_restricted": false,
+    "location_detail": "",
+    "skills": [
+      "Internet product growth",
+      "channel development",
+      "blockchain",
+      "finance",
+      "user growth",
+      "channel operation",
+      "cross-department coordination",
+      "business development"
+    ]
+  },
+  {
+    "id": "jobicy-143124",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": false,
+    "location_detail": "",
+    "skills": [
+      "Enterprise SaaS",
+      "Solutions Consulting",
+      "Professional Services",
+      "Management Consulting",
+      "Technical Solutions",
+      "Statement of Work (SOW)",
+      "Pre-sales",
+      "Post-sales",
+      "Cross-functional Leadership",
+      "Change Management"
+    ]
+  },
+  {
+    "id": "jobicy-152142",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "languages_required": [
+      "French"
+    ],
+    "location_restricted": true,
+    "location_detail": "France",
+    "skills": [
+      "Channel Partners",
+      "Sales Engineering",
+      "Observability",
+      "SIEM",
+      "Linux",
+      "JavaScript",
+      "Regex",
+      "Presales",
+      "Proof-of-Concept",
+      "Solution Selling"
+    ]
+  },
+  {
+    "id": "jobicy-149988",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true,
+    "location_detail": "European, Middle East and African time zones",
+    "skills": [
+      "Python",
+      "Kafka",
+      "Spark",
+      "Distributed systems",
+      "SQL",
+      "NoSQL",
+      "Linux systems administration",
+      "OpenStack",
+      "Kubernetes",
+      "Infrastructure operations"
+    ]
+  },
+  {
+    "id": "jobicy-154206",
+    "seniority": "lead/manager",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": false,
+    "location_detail": "",
+    "skills": [
+      "Node.js",
+      "GraphQL",
+      "React",
+      "TypeScript",
+      "AWS",
+      "Kubernetes",
+      "Engineering Management",
+      "Architecture",
+      "Payments",
+      "E-commerce"
+    ]
+  },
+  {
+    "id": "jobicy-154213",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true,
+    "location_detail": "U.S. citizenship required",
+    "skills": [
+      "Spark",
+      "Kafka",
+      "Redpanda",
+      "Flink",
+      "Airflow",
+      "Dagster",
+      "Argo Workflows",
+      "SQL",
+      "Postgres",
+      "Iceberg"
+    ]
+  },
+  {
+    "id": "jobicy-152407",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true,
+    "location_detail": "US",
+    "skills": [
+      "Java",
+      "Python",
+      "Kubernetes",
+      "Selenium WebDriver",
+      "Playwright",
+      "TestNG",
+      "Maven",
+      "Git",
+      "Jenkins",
+      "Docker"
+    ]
+  },
+  {
+    "id": "jobicy-154387",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": false,
+    "location_detail": "",
+    "skills": [
+      "Go",
+      "Distributed Systems",
+      "Backend Development",
+      "Databases",
+      "Streaming Architectures",
+      "Web3",
+      "Blockchain Infrastructure",
+      "API Platforms",
+      "RPC Services",
+      "Data Streaming Pipelines"
+    ]
+  },
+  {
+    "id": "jobicy-154336",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true,
+    "location_detail": "Brazil, preferably São Paulo",
+    "skills": [
+      "enterprise sales",
+      "SaaS sales",
+      "conversational AI",
+      "generative AI",
+      "account management",
+      "sales strategy",
+      "C-suite relationship building",
+      "complex sales cycles",
+      "API-driven platforms",
+      "deal closing"
+    ]
+  },
+  {
+    "id": "jobicy-152189",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": false,
+    "location_detail": "",
+    "skills": [
+      "product marketing",
+      "growth marketing",
+      "go-to-market strategy",
+      "demand generation",
+      "content creation",
+      "lifecycle marketing",
+      "positioning and messaging",
+      "pipeline generation",
+      "pricing strategy",
+      "ed tech"
+    ]
+  },
+  {
+    "id": "jobicy-152181",
+    "seniority": "lead/manager",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true,
+    "location_detail": "US",
+    "skills": [
+      "Python",
+      "React",
+      "AWS",
+      "TypeScript",
+      "Full-stack development",
+      "Distributed systems",
+      "Cloud infrastructure",
+      "LLM",
+      "APIs",
+      "Observability"
+    ]
+  },
+  {
+    "id": "jobicy-154184",
+    "seniority": "lead/manager",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": false,
+    "location_detail": "",
+    "skills": [
+      "Product Marketing",
+      "GTM strategy",
+      "Product Positioning",
+      "Messaging",
+      "AI/ML",
+      "Enterprise SaaS",
+      "Developer Platforms",
+      "Cross-functional Leadership",
+      "Team Management",
+      "Data Analytics"
+    ]
+  },
+  {
+    "id": "jobicy-154482",
+    "seniority": "lead/manager",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true,
+    "location_detail": "USA",
+    "skills": [
+      "SQL",
+      "Python",
+      "DBT",
+      "Fraud Analytics",
+      "Data Modeling",
+      "Risk Management",
+      "Machine Learning",
+      "Data Analysis",
+      "Strategy Development",
+      "Cross-functional Collaboration"
+    ]
+  },
+  {
+    "id": "jobicy-152487",
+    "seniority": "lead/manager",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": false,
+    "location_detail": "",
+    "skills": [
+      "SEO",
+      "AEO (Answer Engine Optimization)",
+      "Technical SEO",
+      "Content Strategy",
+      "Data Analysis",
+      "Cross-functional Leadership",
+      "International SEO",
+      "Programmatic SEO",
+      "Attribution Modeling",
+      "Structured Data"
+    ]
+  },
+  {
+    "id": "jobicy-142139",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true,
+    "location_detail": "United States",
+    "skills": [
+      "Solidity compiler development",
+      "Java",
+      "Compiler theory",
+      "Formal verification",
+      "Ethereum Virtual Machine",
+      "Static analysis",
+      "Parser generation",
+      "Semantic analysis",
+      "SMT solvers",
+      "LLVM"
+    ]
+  },
+  {
+    "id": "jobicy-154155",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true,
+    "location_detail": "United States",
+    "skills": [
+      "Python",
+      "Distributed systems",
+      "System design",
+      "Software development",
+      "Architecture",
+      "AI integration",
+      "Technical solutioning",
+      "Product launch",
+      "Code review",
+      "Testing"
+    ]
+  },
+  {
+    "id": "jobicy-151924",
+    "seniority": "lead/manager",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true,
+    "location_detail": "UK",
+    "skills": [
+      "Payment Systems",
+      "Distributed Systems",
+      "Microservices",
+      "Cloud Platforms",
+      "AWS",
+      "Kotlin",
+      "Java",
+      "DynamoDB",
+      "MySQL",
+      "Terraform"
+    ]
+  },
+  {
+    "id": "jobicy-154300",
+    "seniority": "lead/manager",
+    "employment_type": "full-time",
+    "languages_required": [
+      "Spanish",
+      "Italian"
+    ],
+    "location_restricted": true,
+    "location_detail": "Southern Europe (Italy, Spain, Portugal)",
+    "skills": [
+      "Sales Management",
+      "Cybersecurity Sales",
+      "MEDDPICC",
+      "Enterprise Software/SaaS",
+      "Channel Partnerships",
+      "Go-To-Market Strategy",
+      "Vulnerability Management",
+      "Cloud Security",
+      "Pipeline Management",
+      "Sales Forecasting"
+    ]
+  },
+  {
+    "id": "jobicy-154210",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": false,
+    "location_detail": "",
+    "skills": [
+      "back end distributed systems",
+      "microservice architectures",
+      "Kubernetes",
+      "AWS",
+      "agile software development",
+      "CI/CD",
+      "Relational Databases",
+      "PostgreSQL",
+      "HTML/CSS/JavaScript",
+      "React"
+    ]
+  },
+  {
+    "id": "jobicy-152428",
+    "seniority": "unclear",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true,
+    "location_detail": "Must be based in the Central region (IL, MN, IA, ND, SD, NE, KS, OK, MO, WI)",
+    "skills": [
+      "Channel sales",
+      "Partner sales",
+      "Relationship management",
+      "Pipeline management",
+      "Sales tracking",
+      "Value proposition presentation",
+      "Benefits-adjacent sales",
+      "Healthcare sales",
+      "AI tools usage"
+    ]
+  },
+  {
+    "id": "jobicy-151932",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "languages_required": [
+      "German"
+    ],
+    "location_restricted": true,
+    "location_detail": "Germany",
+    "skills": [
+      "Sales Engineering",
+      "Technical Consultancy",
+      "Mobile Device Management",
+      "Apple Enterprise",
+      "Cybersecurity",
+      "Product Demos",
+      "Proof-of-Concept Management",
+      "Channel Partner Management",
+      "CRM",
+      "Public Speaking"
+    ]
+  },
+  {
+    "id": "jobicy-149971",
+    "seniority": "unclear",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true,
+    "location_detail": "European, Middle East and African time zones",
+    "skills": [
+      "Python",
+      "distributed systems",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Kafka",
+      "Redis",
+      "Linux systems administration",
+      "OpenStack",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": "jobicy-149976",
+    "seniority": "lead/manager",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true,
+    "location_detail": "EMEA region",
+    "skills": [
+      "Web development",
+      "Typescript",
+      "React",
+      "Flutter",
+      "Linux",
+      "Docker",
+      "Kubernetes",
+      "REST API design",
+      "Performance engineering",
+      "Security"
+    ]
+  },
+  {
+    "id": "jobicy-154291",
+    "seniority": "lead/manager",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": false,
+    "location_detail": "",
+    "skills": [
+      "Kubernetes",
+      "Distributed Systems",
+      "SaaS",
+      "CI/CD",
+      "DevOps",
+      "SOC 2",
+      "ISO 27001",
+      "AI-assisted development",
+      "Infrastructure",
+      "Budget Management"
+    ]
+  },
+  {
+    "id": "jobicy-152330",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true,
+    "location_detail": "Canada",
+    "skills": [
+      "Test Automation",
+      "API Testing",
+      "UI Testing",
+      "Playwright",
+      "Selenium",
+      "Cypress",
+      "CI/CD",
+      "JavaScript",
+      "TypeScript",
+      "SQL"
+    ]
+  },
+  {
+    "id": "jobicy-152174",
+    "seniority": "lead/manager",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": false,
+    "location_detail": "",
+    "skills": [
+      "Quality management",
+      "High-volume manufacturing",
+      "Statistical process control",
+      "Root cause analysis",
+      "Quality control documentation",
+      "Supplier auditing",
+      "ASQ certification",
+      "Internal Auditor Certification",
+      "Electromechanical products",
+      "APAC travel"
+    ]
+  },
+  {
+    "id": "jobicy-152380",
+    "seniority": "senior",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true,
+    "location_detail": "Eastern United States or EMEA region",
+    "skills": [
+      "digital payment systems",
+      "mobile payments",
+      "online banking",
+      "payment gateways",
+      "wallets",
+      "point-of-sale systems",
+      "quality engineering",
+      "API integrations",
+      "software development methodologies",
+      "technical troubleshooting"
+    ]
+  },
+  {
+    "id": "jobicy-143584",
+    "seniority": "lead/manager",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": false,
+    "location_detail": "",
+    "skills": [
+      "Power BI",
+      "Azure",
+      "DAX",
+      "Power Query",
+      "Tabular Models",
+      "Azure Databricks",
+      "Synapse",
+      "SQL Server",
+      "Git",
+      "Azure DevOps"
+    ]
+  },
+  {
+    "id": "jobicy-154219",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true,
+    "location_detail": "France",
+    "skills": [
+      "dbt",
+      "BigQuery",
+      "Looker",
+      "GCP",
+      "Argo",
+      "Git",
+      "Python",
+      "Airflow",
+      "Data Modeling"
+    ]
+  },
+  {
+    "id": "jobicy-152067",
+    "seniority": "mid",
+    "employment_type": "full-time",
+    "languages_required": [],
+    "location_restricted": true,
+    "location_detail": "San Francisco, CA or Austin, TX",
+    "skills": [
+      "software sales",
+      "technical sales",
+      "open source sales",
+      "security sales",
+      "infrastructure sales",
+      "sales operations",
+      "CRM systems",
+      "multi-stakeholder sales",
+      "prospecting",
+      "closing"
+    ]
+  }
+]
